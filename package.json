@@ -3,6 +3,7 @@
   "scripts": {
     "start": "next start",
     "build": "next build",
+  "export": "next export",
     "build:watch": "tsc --watch",
     "dev": "next dev",
     "lint": "next lint"
