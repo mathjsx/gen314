@@ -16,7 +16,7 @@ export default function Home() {
     <main>
       <form action={getMenuItem}>
         <label htmlFor="theme">
-          Saya siswa smk kelas x ingin tahu tentang matematika dengan tema:{' '}
+          Saya siswa smk  ingin tahu tentang matematika dengan tema:{' '}
         </label>
         <input type="text" name="theme" id="theme" />
         <br />

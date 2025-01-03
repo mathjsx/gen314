@@ -1,7 +1,8 @@
 
-/** @type {import('next').NextConfig} */
+// next.config.js
 const nextConfig = {
-  output: 'export', // Menentukan bahwa hasil build akan diekspor sebagai static site
+  output: 'export',
+  // Tambahkan konfigurasi lain jika diperlukan
 };
 
 module.exports = nextConfig;
